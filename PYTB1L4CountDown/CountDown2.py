@@ -1,8 +1,4 @@
-import time
-
-time = 1000
-if time == 0:
-    print("wow")
-elif time -1:
-    print (time -1)
-    
+count = 100
+while count > 0 :
+    print(count)
+    count = count - 1
